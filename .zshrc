@@ -99,4 +99,4 @@ source /home/alex/google-cloud-sdk/path.zsh.inc
 source source /home/alex/google-cloud-sdk/completion.zsh.inc
 
 # Swap left control and caps
-setxkbmap -option ctrl:swapcaps
+# setxkbmap -option ctrl:swapcaps
